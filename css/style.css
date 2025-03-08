@@ -1,0 +1,31 @@
+.text{ color: red;
+font-size: 100px;
+font-family: "Dancing Script", cursive;}
+.image-size{
+    width: 100%;
+}
+.tesxt-center{
+    font-size: 50px;
+}
+.input1{ border-radius: 50px;
+background-color: rgb(216, 188, 242);
+padding-left: 10% ;}
+
+.bouton{
+    width: 100%;
+    border-radius: 50px;
+}
+.input1::placeholder{
+    color: rgb(13, 2, 24);
+    
+}
+.icon1-position{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.icon2-position{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 15px;
+ }
